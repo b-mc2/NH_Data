@@ -6,7 +6,9 @@ This project aims to collect and curate various New Hampshire government dataset
 ### Project Overview
 This repository will serve as a long-term archive of New Hampshire datasets, including those that are typically short-lived, for example, the Manchester Police logs which only display the past seven days. By regularly pulling and parsing these datasets, I hope to provide a comprehensive resource for users.
 
-**Current Status:** This project is a work in progress. Datasets will be added as they are discovered and parsed reliably. Most data will initially be stored in CSV format, and currently new entries are appended as they become available. In the future, I'll organize data into subdirectories labeled by date. Most sources will be updated or checked daily.
+**Current Status:** This project is a work in progress. Datasets will be added as they are discovered and can be parsed reliably. Most data will be stored in CSV format and organized with filenames labeled by the date the data covers, but some data will labeled by date of **retrieval, not the date the data covers**. This is due to some datasets containing different date formats but also containing multiple different dates within the data. For an example, see [Energy](Energy/nh-energy-rates-2024-11-02.csv) in which energy rates are updated at different dates and so the `retrieval_date` acts as an "as of" date.  
+
+Most sources will be updated or checked daily.
 
 ### Datasets Included
 
