@@ -32,6 +32,8 @@ Most sources will be updated or checked daily.
 - **Prison/Inmate Logs:** This section includes prison inmate population records.
   - **WIP - Cheshire County Department of Corrections Population List:** [View Cheshire Inmate List](https://co.cheshire.nh.us/wp-content/uploads/IM-pop.pdf)
 
+#### New Hampshire Revised Statutes Annotated (RSAs)
+- **NH RSA Embedding Index:** This is a single file of all NH RSAs and their embeddings, available for semantic searching here: [Semantic Search NH RSAs](https://do-me.github.io/SemanticFinder/?hf=New_Hampshire_Revised_Statutes_Annotated_95bddb2d)
 
 *More datasets will be added as they are identified and processed.*
 
